@@ -1,7 +1,7 @@
 #include "Bullet.hpp"
 #include <cmath>
 #ifndef DEGTORAD
-	#define DEGTORAD 0.017453f
+#define DEGTORAD 0.017453f
 const int WIDTH = 1200;
 const int HEIGHT = 800;
 #endif
