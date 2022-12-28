@@ -1,7 +1,7 @@
 # Asteroids
 Used C++ and the SFML library to create my own version of the classic arcade game Asteroids
 
-The game is a space-themed shooter game where the player must avoid being hit by asteroids or being shot by the alien that spawns every 15 seconds on higher levels. Once all of the asteroids and aliens have been cleared, the player advances to the next level, which increases the number of asteroids spawned.
+The game is a space-themed shooter game where the player avoids being hit by asteroids or being shot by the alien that spawns every 15 seconds on higher levels. Once all of the asteroids and aliens have been cleared, the player advances to the next level, which increases the number of asteroids spawned.
 
 Here is a video of me playing the game:
 
